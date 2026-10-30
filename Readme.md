@@ -27,7 +27,7 @@ finance-intelligence-agent/
 │   │   └── tools.py          # Deterministic finance tools
 │   ├── tests/
 │   │   └── test_tools.py     # Pytest test suite
-│   ├── .env.example
+│   ├── .env
 │   └── requirements.txt
 ├── frontend/
 │   ├── src/
